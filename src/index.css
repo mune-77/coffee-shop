@@ -1,3 +1,13 @@
 body {
     padding-top: 91px;
 }
+@import url('https://fonts.googleapis.com/css2?family=Redaction+10:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Redaction+35:ital,wght@0,400;0,700;1,400&display=swap');
+.heroBack{
+    background-image: url('https://media.istockphoto.com/id/1467199060/photo/cup-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=612x612&w=0&k=20&c=OnS8_6FM5ussfSGmjpDD-GofERg2UbItdxShIAA90sQ=');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}

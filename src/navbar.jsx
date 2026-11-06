@@ -30,10 +30,13 @@ const NavBar = () => {
             <Nav.Link as={NavLink} to="/" style={{ color: "#2b1f1a" }}>
               HOME
             </Nav.Link>
-            <Nav.Link as={NavLink} to="/about" style={{ color: "#2b1f1a" }}>
+            <Nav.Link as={NavLink}  style={{ color: "#2b1f1a" }}>
               ABOUT
             </Nav.Link>
-            <Nav.Link as={NavLink} to="/contact" style={{ color: "#2b1f1a" }}>
+            <Nav.Link as={NavLink}  style={{ color: "#2b1f1a" }}>
+              MENU
+            </Nav.Link>
+            <Nav.Link as={NavLink}  style={{ color: "#2b1f1a" }}>
               CONTACT
             </Nav.Link>
           </Nav>
